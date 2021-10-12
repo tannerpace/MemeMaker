@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "//MemeMaker/static/css/main.2baf769d.chunk.css",
-    "main.js": "//MemeMaker/static/js/main.f80d2047.chunk.js",
-    "main.js.map": "//MemeMaker/static/js/main.f80d2047.chunk.js.map",
-    "runtime-main.js": "//MemeMaker/static/js/runtime-main.b1a6af14.js",
-    "runtime-main.js.map": "//MemeMaker/static/js/runtime-main.b1a6af14.js.map",
-    "static/js/2.581f311c.chunk.js": "//MemeMaker/static/js/2.581f311c.chunk.js",
-    "static/js/2.581f311c.chunk.js.map": "//MemeMaker/static/js/2.581f311c.chunk.js.map",
-    "static/js/3.079442c4.chunk.js": "//MemeMaker/static/js/3.079442c4.chunk.js",
-    "static/js/3.079442c4.chunk.js.map": "//MemeMaker/static/js/3.079442c4.chunk.js.map",
-    "index.html": "//MemeMaker/index.html",
-    "static/css/main.2baf769d.chunk.css.map": "//MemeMaker/static/css/main.2baf769d.chunk.css.map",
-    "static/js/2.581f311c.chunk.js.LICENSE.txt": "//MemeMaker/static/js/2.581f311c.chunk.js.LICENSE.txt"
+    "main.css": "/MemeMaker/static/css/main.2baf769d.chunk.css",
+    "main.js": "/MemeMaker/static/js/main.f80d2047.chunk.js",
+    "main.js.map": "/MemeMaker/static/js/main.f80d2047.chunk.js.map",
+    "runtime-main.js": "/MemeMaker/static/js/runtime-main.07ecfa10.js",
+    "runtime-main.js.map": "/MemeMaker/static/js/runtime-main.07ecfa10.js.map",
+    "static/js/2.581f311c.chunk.js": "/MemeMaker/static/js/2.581f311c.chunk.js",
+    "static/js/2.581f311c.chunk.js.map": "/MemeMaker/static/js/2.581f311c.chunk.js.map",
+    "static/js/3.079442c4.chunk.js": "/MemeMaker/static/js/3.079442c4.chunk.js",
+    "static/js/3.079442c4.chunk.js.map": "/MemeMaker/static/js/3.079442c4.chunk.js.map",
+    "index.html": "/MemeMaker/index.html",
+    "static/css/main.2baf769d.chunk.css.map": "/MemeMaker/static/css/main.2baf769d.chunk.css.map",
+    "static/js/2.581f311c.chunk.js.LICENSE.txt": "/MemeMaker/static/js/2.581f311c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1a6af14.js",
+    "static/js/runtime-main.07ecfa10.js",
     "static/js/2.581f311c.chunk.js",
     "static/css/main.2baf769d.chunk.css",
     "static/js/main.f80d2047.chunk.js"
