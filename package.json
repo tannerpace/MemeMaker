@@ -2,7 +2,7 @@
   "name": "mememaker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tannerpace/MemeMaker/",
+  "homepage": "https://tannerpace.github.io//MemeMaker/",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.4.1",
